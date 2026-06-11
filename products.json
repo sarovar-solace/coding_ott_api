@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "red shirt clothes",
+    "description": "      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nihil placeat, ipsa veniam ab, obcaecati dignissimos magni repudiandae corrupti et optio unde architecto recusandae quos, perferendis beatae natus nisi aperiam.\n",
+    "price": "2000",
+    "discount": "20",
+    "category": "clothes",
+    "image": "https://www.panamerica.studio/cdn/shop/files/4H9A6014.jpg?v=1717854188"
+  },
+  {
+    "id": 2,
+    "title": "blue shirt",
+    "description": "      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nihil placeat, ipsa veniam ab, obcaecati dignissimos magni repudiandae corrupti et optio unde architecto recusandae quos, perferendis beatae natus nisi aperiam.\n",
+    "price": "5000",
+    "discount": "0",
+    "category": "clothes",
+    "image": "https://powerlook.in/cdn/shop/files/5_6883dd98-864d-4002-8012-2f817fbf99af.jpg?v=1760532158"
+  },
+  {
+    "id": 3,
+    "title": "yellow shirt",
+    "description": "      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero officia, nesciunt voluptatibus incidunt minima omnis magnam nemo vero excepturi magni quia laudantium beatae est consequatur perferendis autem expedita accusamus. Laboriosam!\n",
+    "price": "1500",
+    "discount": "12",
+    "category": "clothes",
+    "image": "https://suta.in/cdn/shop/files/0000s_0070_DSC01120_cead3963-1fd2-4c17-8d49-33f158b9d115.jpg?v=1717684829&width=2048"
+  },
+  {
+    "id": 4,
+    "title": "pink shirt",
+    "description": "      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima reprehenderit similique sed voluptatem sequi praesentium sunt, corporis rerum tempora consequatur autem ea officia numquam nemo doloribus repudiandae veritatis? Velit, similique.\n",
+    "price": "3000",
+    "discount": "10",
+    "category": "clothes",
+    "image": "https://babli.in/cdn/shop/files/BlushPinkShirt_2.jpg?v=1734421367&width=2048"
+  },
+  {
+    "id": 5,
+    "title": "blue jeans",
+    "description": "                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione quis velit sapiente dignissimos voluptas quo ullam, qui saepe nulla esse atque provident fugit. Error vitae non officiis, illum voluptas vel?\n",
+    "price": "5000",
+    "discount": "10",
+    "category": "clothes",
+    "image": "https://campussutra.com/cdn/shop/files/CSMSSJEAN3236_1_68b78505-ea69-43dd-9d89-56a86d14f8e7.jpg?v=1761722230"
+  },
+  {
+    "id": 6,
+    "title": "white jeans",
+    "description": "      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto laudantium, dolorem nemo atque assumenda, consectetur harum eos consequuntur itaque ullam voluptate debitis non magni dolores eaque asperiores. Magni, ipsum asperiores!\n",
+    "price": "3000",
+    "discount": "0",
+    "category": "clothes",
+    "image": "https://assets.ajio.com/medias/sys_master/root1/20251105/VRr1/690a5ff7a470c5082f6ae900/-473Wx593H-469194781-white-MODEL.jpg"
+  },
+  {
+    "id": 8,
+    "title": "blue shirtr",
+    "description": "sdsadsd",
+    "price": "338",
+    "discount": "3",
+    "category": "clothess",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEBVztwFqfmgwiwPIwVJAl4FCejL9mwPT4umFmrNVnQRmASZPlSPUsaKiLVBYPVuIx6EEu2ahCwh77RMAqXS-iEmVEANej"
+  },
+  {
+    "id": 16,
+    "title": "Essence Mascara Lash Princess",
+    "description": "kjdskdsd",
+    "price": "9.99",
+    "category": "clothess",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+  },
+  {
+    "id": 17,
+    "title": "red shirt clothes",
+    "description": "      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nihil placeat, ipsa veniam ab, obcaecati dignissimos magni repudiandae corrupti et optio unde architecto recusandae quos, perferendis beatae natus nisi aperiam.\n",
+    "price": "2000",
+    "discount": "20",
+    "category": "clothes",
+    "image": "https://www.panamerica.studio/cdn/shop/files/4H9A6014.jpg?v=1717854188"
+  },
+  {
+    "id": 18,
+    "title": "red shirt",
+    "description": "      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nihil placeat, ipsa veniam ab, obcaecati dignissimos magni repudiandae corrupti et optio unde architecto recusandae quos, perferendis beatae natus nisi aperiam.\n",
+    "price": "2000",
+    "discount": "20",
+    "category": "clothes",
+    "image": "https://www.panamerica.studio/cdn/shop/files/4H9A6014.jpg?v=1717854188"
+  }
+]
